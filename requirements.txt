@@ -1,0 +1,12 @@
+# 核心依赖
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+requests>=2.31.0
+# CrewAI相关
+crewai>=0.28.8
+langchain>=0.1.10
+# FastAPI相关
+fastapi>=0.109.0
+uvicorn>=0.27.0.post1
+# 测试工具
+pytest>=7.4.4
